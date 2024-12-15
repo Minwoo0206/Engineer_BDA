@@ -9,3 +9,6 @@ Practice Repo for Engineer Big Data Analysis
 
 제 9회 시험 접수기간은 10.28~11.1이고 시험일은 11.30(토)이다. 잊지 말자.
 
+## 결과
+![image](https://github.com/user-attachments/assets/0792d222-dc20-47ab-b0ac-c7a117753672)
+
